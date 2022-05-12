@@ -9,5 +9,5 @@ _Bootstrap for React Hook Form Library_
 
 ### Dependencies
 
-> react
-> react-hook-form 7.X.X
+> - react
+> - react-hook-form 7.X.X
